@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "name": "Yoda",
+            "state": "Size matters not",
+            "description": "Do or do not. There is no try...",
+            "image": "https://as01.epimg.net/meristation/imagenes/2022/11/03/noticias/1667485603_047399_1667486014_noticia_normal.jpg"
+        },
+        {
+            "name": "Leia",
+            "state": "You're my only Hope",
+            "description": "I've placed information vital to the survival...",
+            "image": "https://images.rtl.fr/~c/880v587/rtl/www/1249199-carrie-fisher-dans-star-wars-7.jpg"
+        },
+        {
+            "name": "Luke",
+            "state": "Your thoughts betrays you",
+            "description": "I feel the good in you, the conflict...",
+            "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/855/public/media/image/2017/08/luke-skywalker-episodio-8.jpeg?itok=aGJ83xPp"
+        }, 
+        {
+            "name": "Finn",
+            "state": "I'am a big deal",
+            "description": "Listen, I've had a pretty messed up day...",
+            "image": "https://super-ficcion.com/wp-content/uploads/2021/08/serie-Finn-Star-Wars.jpg"
+        }, 
+        {
+            "name": "Han",
+            "state": "Look, kid...",
+            "description": "Listen, I've got enough on my plate as it is, and I...",
+            "image": "https://www.pcgames.de/screenshots/original/2015/12/star_wars_7_han_solo-pc-games_b2teaser_169.png"
+        }, 
+        {
+            "name": "Rey",
+            "state": "I can handle myself",
+            "description": "You will remove these restraints and leave...",
+            "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-rey-1577094398.jpg"
+        }, 
+        {
+            "name": "Poe",
+            "state": "New ride",
+            "description": "I just upraded my X-Wing. Next time...",
+            "image": "https://wipy.tv/wp-content/uploads/2020/01/historia-del-pasado-de-Poe-Dameron-1200x720.jpg"
+        }, 
+        {
+            "name": "Ben",
+            "state": "Move along",
+            "description": "Those aren't the droids you're looking for...",
+            "image": "https://img.ecartelera.com/noticias/59900/59993-m.jpg"
+        }
+    ]
+}

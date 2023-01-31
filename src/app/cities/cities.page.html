@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-toolbar color="myColor">
+    <ion-title>Recipes</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content *ngIf="cities.length > 0">
+  <ion-col sizeLg="6" sizeMd="6" sizeXs="12" *ngFor="let citi of cities">
+    <ion-card [routerLink]="['/food',citi.id]">
+      <img src="{{citi.image}}" />
+      <div class="card-title">{{citi.name}}</div>
+    </ion-card>
+  </ion-col>
+</ion-content>
+
+<ion-label *ngIf="!cities.length"
+  >No se cargaron las ciudades correctamente</ion-label
+>
